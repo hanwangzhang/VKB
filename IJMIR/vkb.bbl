@@ -1,0 +1,99 @@
+\begin{thebibliography}{10}
+
+\bibitem{chao2015mining}
+Y.-W. Chao, Z.~Wang, R.~Mihalcea, and J.~Deng.
+\newblock Mining semantic affordances of visual object categories.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 4259--4267, 2015.
+
+\bibitem{chen2015webly}
+X.~Chen and A.~Gupta.
+\newblock Webly supervised learning of convolutional networks.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 1431--1439, 2015.
+
+\bibitem{chen2013neil}
+X.~Chen, A.~Shrivastava, and A.~Gupta.
+\newblock Neil: Extracting visual knowledge from web data.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 1409--1416, 2013.
+
+\bibitem{divvala2014learning}
+S.~Divvala, A.~Farhadi, and C.~Guestrin.
+\newblock Learning everything about anything: Webly-supervised visual concept
+  learning.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 3270--3277, 2014.
+
+\bibitem{hare2006mind}
+J.~S. Hare, P.~H. Lewis, P.~G. Enser, and C.~J. Sandom.
+\newblock Mind the gap: another look at the problem of the semantic gap in
+  image retrieval.
+\newblock In {\em Electronic Imaging 2006}, pages 607309--607309. International
+  Society for Optics and Photonics, 2006.
+
+\bibitem{johnson2015image}
+J.~Johnson, R.~Krishna, M.~Stark, L.-J. Li, D.~A. Shamma, M.~S. Bernstein, and
+  L.~Fei-Fei.
+\newblock Image retrieval using scene graphs.
+\newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2015 IEEE
+  Conference on}, pages 3668--3678. IEEE, 2015.
+
+\bibitem{krishna2016visual}
+R.~Krishna, Y.~Zhu, O.~Groth, J.~Johnson, K.~Hata, J.~Kravitz, S.~Chen,
+  Y.~Kalantidis, L.-J. Li, D.~A. Shamma, et~al.
+\newblock Visual genome: Connecting language and vision using crowdsourced
+  dense image annotations.
+\newblock {\em arXiv preprint arXiv:1602.07332}, 2016.
+
+\bibitem{sadeghi2015viske}
+F.~Sadeghi, S.~K. Divvala, and A.~Farhadi.
+\newblock Viske: Visual knowledge extraction and question answering by visual
+  verification of relation phrases.
+\newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2015 IEEE
+  Conference on}, pages 1456--1464. IEEE, 2015.
+
+\bibitem{schuster2015generating}
+S.~Schuster, R.~Krishna, A.~Chang, L.~Fei-Fei, and C.~D. Manning.
+\newblock Generating semantically precise scene graphs from textual
+  descriptions for improved image retrieval.
+\newblock In {\em Proceedings of the Fourth Workshop on Vision and Language},
+  pages 70--80, 2015.
+
+\bibitem{smeulders2000content}
+A.~W. Smeulders, M.~Worring, S.~Santini, A.~Gupta, and R.~Jain.
+\newblock Content-based image retrieval at the end of the early years.
+\newblock {\em TPAMI}, 2000.
+
+\bibitem{vedantam2015learning}
+R.~Vedantam, X.~Lin, T.~Batra, C.~Lawrence~Zitnick, and D.~Parikh.
+\newblock Learning common sense through visual abstraction.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 2542--2550, 2015.
+
+\bibitem{wang2012towards}
+X.-J. Wang, Z.~Xu, L.~Zhang, C.~Liu, and Y.~Rui.
+\newblock Towards indexing representative images on the web.
+\newblock In {\em Proceedings of the 20th ACM international conference on
+  Multimedia}, pages 1229--1238. ACM, 2012.
+
+\bibitem{zhang2014start}
+H.~Zhang, Y.~Yang, H.~Luan, S.~Yang, and T.-S. Chua.
+\newblock Start from scratch: Towards automatically identifying, modeling, and
+  naming visual attributes.
+\newblock In {\em Proceedings of the ACM International Conference on
+  Multimedia}, pages 187--196. ACM, 2014.
+
+\bibitem{zhu2014reasoning}
+Y.~Zhu, A.~Fathi, and L.~Fei-Fei.
+\newblock Reasoning about object affordances in a knowledge base
+  representation.
+\newblock In {\em Computer Vision--ECCV 2014}, pages 408--424. Springer, 2014.
+
+\bibitem{zhu2015building}
+Y.~Zhu, C.~Zhang, C.~R{\'e}, and L.~Fei-Fei.
+\newblock Building a large-scale multimodal knowledge base system for answering
+  visual queries.
+\newblock {\em arXiv preprint arXiv:1507.05670}, 2015.
+
+\end{thebibliography}
